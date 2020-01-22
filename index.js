@@ -1,0 +1,1 @@
+const nemo = ['a', 'b'];
